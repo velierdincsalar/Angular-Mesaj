@@ -1,0 +1,78 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "adi": "Ekonomi",
+      "kaytarih": "1670008636556",
+      "duztarih": "1670066679342"
+    },
+    {
+      "id": 2,
+      "adi": "Gündem",
+      "kaytarih": "1670008642785",
+      "duztarih": "1670008642785"
+    },
+    {
+      "id": 3,
+      "adi": "Hava Durumu",
+      "kaytarih": "1670008650093",
+      "duztarih": "1670008650093"
+    },
+    {
+      "id": 4,
+      "adi": "Teknoloji",
+      "kaytarih": "1670066704310",
+      "duztarih": "1670090936878"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "adsoyad": "Havva",
+      "mail": "havva@mail.com",
+      "admin": "1",
+      "parola": "123",
+      "kaytarih": "1668070115626",
+      "duztarih": "1670066773789"
+    },
+    {
+      "id": 2,
+      "adsoyad": "hatice",
+      "mail": "hatice@mail.com",
+      "admin": "0",
+      "parola": "123",
+      "kaytarih": "1668070283323",
+      "duztarih": "1670171599288"
+    }
+  ],
+  "news": [
+    {
+      "id": 1,
+      "basligi": "Borsa günün ilk yarısında geriledi.",
+      "categoryId": "1",
+      "yaytarih": "1668070115626",
+      "duztarih": "1670066704310"
+    },
+    {
+      "id": 2,
+      "basligi": "Sürücülere kış lastiği uyarısı!",
+      "categoryId": 2,
+      "yaytarih": "1668070115626",
+      "duztarih": "1670066704310"
+    },
+    {
+      "id": 3,
+      "basligi": "Hava Durumu",
+      "categoryId": 3,
+      "yaytarih": "1668070115626",
+      "duztarih": "1670066704310"
+    },
+    {
+      "id": 4,
+      "basligi": "Google Play Store listeyi açıkladı",
+      "categoryId": 4,
+      "yaytarih": "1668070115626",
+      "duztarih": "1670066704310"
+    }
+  ]
+}
